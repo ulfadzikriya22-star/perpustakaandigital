@@ -9,7 +9,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Hollywood, Ending](ebook/Hollywood,%20Ending%20(John%20Green)%20(z-library.sk,%201lib.sk,%20z-lib.sk).epub) — John Green (2026)
 6. [Normal People](ebook/Normal%20People%20(Sally%20Rooney)%20(z-library.sk,%201lib.sk,%20z-lib.sk).epub) — Sally Rooney (2018)
 7. [The Alchemist](ebook/The%20Alchemist%20(Paulo%20Coelho)%20(z-library.sk,%201lib.sk,%20z-lib.sk).epub) — Paulo Coelho (1988)
-8. [The Deal (Off-Campus, Book 1)](ebook/The%20Deal%20(Off-Campus,%20Book%201)%20(Elle%20Kennedy)%20(z-library.sk,%201lib.sk,%20z-lib.sk).epub) — Elle Kennedy (2015)
+8. [East of Eden](ebook/East%20Of%20Eden%20(John%20Steinbeck)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf) — John Steinbeck (1952)
 9. [The Love Hypothesis](ebook/The%20Love%20Hypothesis%20(Ali%20Hazelwood)%20(z-library.sk,%201lib.sk,%20z-lib.sk).epub) — Ali Hazelwood (2021)
 10. [Yesteryear](ebook/Yesteryear%20(Caro%20Claire%20Burke)%20(z-library.sk,%201lib.sk,%20z-lib.sk).epub) — Caro Claire Burke (2026)
 11. [Rangkuman UGC 2](ebook/Rangkuman%20UGC%202.pdf)
