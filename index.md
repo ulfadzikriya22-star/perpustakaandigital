@@ -12,7 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [East of Eden](ebook/East%20Of%20Eden%20(John%20Steinbeck)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf) — John Steinbeck (1952)
 9. [The Love Hypothesis](ebook/The%20Love%20Hypothesis%20(Ali%20Hazelwood)%20(z-library.sk,%201lib.sk,%20z-lib.sk).epub) — Ali Hazelwood (2021)
 10. [Yesteryear](ebook/Yesteryear%20(Caro%20Claire%20Burke)%20(z-library.sk,%201lib.sk,%20z-lib.sk).epub) — Caro Claire Burke (2026)
-11. [Rangkuman UGC 2](ebook/Rangkuman%20UGC%202.pdf)
+11. [Rangkuman UGC Ulfa Dzikriya](ebook/Rangkuman%20UGC%20Ulfa%20Dzikriya.pdf)
 ---
 *Powered by GitHub Pages*
 Ulfa Dzikriya (13040124120040)
